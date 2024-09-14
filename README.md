@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Medical AI Agent** is a Streamlit application designed to help users identify potential diseases and receive health tips based on selected symptoms. This tool is for informational purposes only and should not be used as a substitute for professional medical advice.
+The **MedInsight AI Agent** is a Streamlit application designed to help users identify potential diseases and receive health tips based on selected symptoms. This tool is for informational purposes only and should not be used as a substitute for professional medical advice.
 
 ## Features
 
