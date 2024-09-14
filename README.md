@@ -1,4 +1,4 @@
-# Medical AI Agent
+# MedInsight AI Agent
 
 ## Overview
 
@@ -13,7 +13,7 @@ The **Medical AI Agent** is a Streamlit application designed to help users ident
 
 ## Usage
 
-1. **Access the App**: Open the app through the provided link: [Medical AI Agent](http://your-streamlit-app-link).
+1. **Access the App**: Open the app through the provided link: [MedInsight AI Agent](https://medinsight-ai-agent.streamlit.app/).
 
 2. **Select Symptoms**: Use the multi-select dropdown to choose symptoms you are experiencing.
 
