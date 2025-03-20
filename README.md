@@ -1,4 +1,4 @@
-# MedInsight AI Agent
+# MedInsight AI Agent 🩺
 
 ## Overview
 
